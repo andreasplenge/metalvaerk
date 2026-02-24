@@ -7,7 +7,7 @@ export interface Piece {
 }
 
 export const siteConfig = {
-  tagline: "Handcrafted in Copenhagen",
+  tagline: "By Andreas Plenge, Handcrafted in Copenhagen",
 };
 
 export const pieces: Piece[] = [

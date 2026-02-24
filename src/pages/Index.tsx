@@ -38,7 +38,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-12 px-8 text-center border-t border-border">
         <p className="font-sans text-xs tracking-widest text-muted-foreground mb-2">
-          metalvaerk@pm.me
+          metalvaerk@andreasplenge.com
         </p>
         <p className="font-sans text-xs tracking-widest uppercase text-muted-foreground">
           © 2025 Metalværk. All rights reserved.
