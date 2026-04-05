@@ -68,6 +68,20 @@ export const pieces: Piece[] = [
     additionalImages: [],
   },
   {
+    id: "pipe",
+    title: "Pipe",
+    description: "Ring handcrafted from 925 sterling silver",
+    imageUrl: "/images/pipe.jpg",
+    additionalImages: [],
+  },
+  {
+    id: "shape",
+    title: "Shape",
+    description: "Ring handcrafted from 925 sterling silver",
+    imageUrl: "/images/shape.jpg",
+    additionalImages: [],
+  },
+  {
     id: "horizonte",
     title: "Horizonte",
     description: "Ring handcrafted from recycled silver and gold alloy",
