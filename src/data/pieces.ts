@@ -19,6 +19,13 @@ export const pieces: Piece[] = [
     additionalImages: ["/images/edubora-2.jpg"],
   },
   {
+    id: "round-and-unadorned",
+    title: "Round and Unadorned",
+    description: "Ring handcrafted from 585 gold",
+    imageUrl: "/images/round-and-unadorned.jpg",
+    additionalImages: ["/images/round-and-unadorned-2.jpg"],
+  },
+  {
     id: "simon",
     title: "Simon",
     description: "Ring handcrafted from 925 sterling silver",
@@ -37,6 +44,13 @@ export const pieces: Piece[] = [
     title: "Tacto",
     description: "Ring handcrafted from 925 sterling silver",
     imageUrl: "/images/tacto.jpg",
+    additionalImages: [],
+  },
+    {
+    id: "shape",
+    title: "Shape",
+    description: "Ring handcrafted from 925 sterling silver",
+    imageUrl: "/images/shape.jpg",
     additionalImages: [],
   },
   {
@@ -75,10 +89,10 @@ export const pieces: Piece[] = [
     additionalImages: [],
   },
   {
-    id: "shape",
-    title: "Shape",
+    id: "almost",
+    title: "Almost",
     description: "Ring handcrafted from 925 sterling silver",
-    imageUrl: "/images/shape.jpg",
+    imageUrl: "/images/almost.jpg",
     additionalImages: [],
   },
   {
