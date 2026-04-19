@@ -40,6 +40,13 @@ export const pieces: Piece[] = [
     additionalImages: [],
   },
   {
+    id: "to-stykker",
+    title: "To Stykker",
+    description: "Set of rings handcrafted from 925 sterling silver and unknown gold alloy",
+    imageUrl: "/images/to-stykker.jpg",
+    additionalImages: ["/images/to-stykker-2.jpg"],
+  },
+  {
     id: "tacto",
     title: "Tacto",
     description: "Ring handcrafted from 925 sterling silver",
