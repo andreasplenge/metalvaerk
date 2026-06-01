@@ -1,30 +1,19 @@
-# Metalvaerk
+# Metalværk
 
 Handcrafted jewelry from Copenhagen.
 
 ## Development
 
-```sh
-npm install
-npm run dev
-```
-
-## Build
+Serve the `public/` folder with any static file server:
 
 ```sh
-npm run build
+python3 -m http.server 5500 --directory public
 ```
+
+Then open `http://localhost:5500`.
 
 ## Deployment
 
-This site is configured for GitHub Pages deployment. See `.github/workflows/deploy.yml`.
+Pushes to `main` deploy automatically to GitHub Pages via `.github/workflows/deploy.yml`.
 
-To change the deployment domain, edit `site.config.ts` and `public/CNAME`.
-
-## Technologies
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui
+To change the deployment domain, update `public/CNAME`.
